@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, Golang, HTML5, ReactJS, NodeJS, Python, Coffee, AWS, JavaScript
-percentage: 100, 50, 65, 80, 70, 90, 89, 50, 65
+aspects: Python, Golang, HTML5, ReactJS, NodeJS, Coffee, AWS, JavaScript, Docker
+percentage: 100, 50, 65, 80, 70, 89, 50, 65, 75
