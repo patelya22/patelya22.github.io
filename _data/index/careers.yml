@@ -4,10 +4,10 @@
     detail: Proofpoint
     i18n: proofpoint
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at Proofpoint as a Software Engineer, I work mainly with back-end as well as the front-end. My team manages the tool that is being used by multiple teams across the company.
     i18n: proofpoint_desc
   date:
-    detail: Apr. 2016
+    detail: Jan. 2019
     i18n: proofpoint_date
   job:
     detail: Software Engineer II
@@ -16,15 +16,31 @@
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Proofpoint
+    i18n: proofpoint_b
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Proofpoint as Threat Intelligence Intern, I work with the researches to make the internal threat search engine, with both front-end and back-end work.
+    i18n: proofpoint_b_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Jun. 2018
+    i18n: proofpoint_b_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Threat Intelligence Intern
+    i18n: proofpoint_b_job
   icon: fa-plus-square
+  present: false
+  
+- name:
+    detail: Michigan State University
+    i18n: msu_a
+  desc:
+    detail: I worked at Michigan State University as Teaching Assistant, I taught one of the computer science courses, Introduction to Programming. In this class, I took lactures on Python and it's core functionality to around 400 students.
+    i18n: msu_a_desc
+  date:
+    detail: Jun. 2017 
+    i18n: msu_a_date
+  job:
+    detail: Teaching Assistant
+    i18n: msu_a_job
+  icon: fa-plus-square
+  present: false 
